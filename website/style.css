@@ -1,0 +1,164 @@
+body {
+  /* Old browsers */
+  background: #141E30;
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: -webkit-linear-gradient(-45deg, #35577D, #141E30);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: linear-gradient(-45deg, #35577D, #141E30);
+  margin: 0;
+  padding: 0;
+}
+
+h2 {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+  color: rgba(255, 255, 255, 0.5);
+  font-weight: 100;
+  font-size: 35px;
+  line-height: 24px;
+  padding-bottom: 30px;
+  text-align: left;
+  width: auto;
+  font-family: Georgia;
+}
+
+p {
+  color: AliceBlue;
+  line-height: 1.3em;
+  text-align: left;
+  width: 90%;
+  font-family: Helvetica;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 2em;
+  font-weight: bold;
+  font-family: Georgia;
+  text-align: center;
+  padding: 15px;
+  margin-left: 39.6%;
+  margin-top: 190px;
+  width: 20%;
+  background-color: #abfffc;
+  color: black;
+  opacity: 0.70;
+  border-radius: 25px;
+}
+
+a {
+  position: relative;
+  font-color: black;
+  color: inherit;
+  font-weight: bold;
+  font-size: 20px;
+  margin-top: 10px;
+  padding: 10px;
+  background-color: #abfffc;
+  opacity: 0.70;
+  border-radius: 25px;
+}
+
+h3 {
+  font-size: 40px;
+  font-weight: bold;
+  background-color: #abfffc;
+  border-radius: 25px;
+  opacity: 0.70;
+  width: 77%;
+  padding:10px;
+  align-self: center;
+  text-align: center;
+}
+
+img {
+  max-width:80%;
+  max-height: auto;
+  width: auto;
+  height: auto;
+  margin-right: 25px;
+  border-radius: 25px;
+}
+
+.content_ideas a {
+  background-color: inherit;
+}
+
+.content_ideas td {
+  padding-bottom: 20px;
+  height: auto;
+  width: 50%;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+}
+
+.content td {
+  padding: 20px;
+  height: auto;
+  width: 30%;
+  max-width: 1000px;
+}
+
+.caption {
+  display: block;
+  font-family: 'Playfair Display', serif;
+  font-size: 14px;
+  font-style: italic;
+  line-height: 14px;
+  margin-left: 20px;
+  padding: 10px;
+  position: relative;
+  top: 80%;
+  width: 60%;
+  background-color: white;
+  color: black;
+  opacity: 0.75;
+}
+
+.content {
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.content_ideas {
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.title_climate {
+  height: 500px;
+  background-image: url("https://s3.amazonaws.com/cms.ipressroom.com/175/files/20192/5c898a3e2cfac215828ed5b3_Climate+Change/Climate+Change_hero.jpg");
+  background-size: cover;
+  padding: 20px;
+}
+
+.title_craftivism {
+  height: 500px;
+  background-image: url("http://www.thisisthebronx.info/wp-content/uploads/2018/10/mural.jpg");
+  background-size: cover;
+  padding: 20px;
+}
+
+.title_out {
+  height: 500px;
+  background-image: url("https://phandroid.s3.amazonaws.com/wp-content/uploads/2015/06/beach-wallpaper-2.jpg");
+  background-size: cover;
+  padding: 20px;
+}
+
+.title_activism {
+  height: 500px;
+  background-image: url("https://www.rollingstone.com/wp-content/uploads/2019/09/GretaThunberg.jpg?resize=900,600&w=1200");
+  background-size: cover;
+  padding: 20px;
+}
+
+.title_life {
+  height: 500px;
+  background-image: url("https://cdn.shopify.com/s/files/1/1118/7596/articles/shutterstock_319121309.jpg?v=1526024552");
+  background-size: contain;
+  padding: 20px;
+}
